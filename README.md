@@ -1,0 +1,2 @@
+# Hand Gesture-Based Volume Control System
+I’ve built a hand gesture-based volume control system using OpenCV, Mediapipe, and PyAutoGUI. It captures video from the webcam, detects hand landmarks, and adjusts the volume based on the distance between the index finger tip and thumb tip. This project highlights the potential of computer vision and machine learning for creating intuitive user experiences.
